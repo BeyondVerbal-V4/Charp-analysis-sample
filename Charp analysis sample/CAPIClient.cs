@@ -17,7 +17,7 @@ namespace Charp_analysis_sample
     {
         public string tokenUrl = "https://token.beyondverbal.com/token";
         public string apiKey = "API KEY";
-        public string startUrl = "https://apiv4.beyondverbal.com/v3/recording/";
+        public string startUrl = "https://apiv4.beyondverbal.com/v4/recording/";
 
     }
     public class AnalysisClient
